@@ -13,4 +13,6 @@ engineering.php and biological.php are very similar in structure. They are simpl
 
 REQUIREMENTS TO RUN THE WEBSITE LOCALLY We have included an okolea_db.docx file that has the code for setting up the website's database. The website uses MYSQL as its DBMS. You will need a local server to run the website on your computer, and a database named okolea, set up as described inside the file mentioned above.
 
-testing testing
+![Admin home](https://github.com/Wasaga-solo/okoleapltaform1.0/blob/master/READMEimages/Screenshot%20(14).png)
+![Engineering home](https://github.com/Wasaga-solo/okoleapltaform1.0/blob/master/READMEimages/Screenshot%20(15).png)
+![AbouUs](https://github.com/Wasaga-solo/okoleapltaform1.0/blob/master/READMEimages/Screenshot%20(16).png)
